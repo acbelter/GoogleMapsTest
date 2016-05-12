@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoogleMapsTest</string>
+    <string name="start_address">Start address</string>
+    <string name="finish_address">Finish address</string>
+    <string name="toast_empty_address">Please enter start and finish addresses</string>
+    <string name="time_with_jams_title">Driving time (with traffic jams)</string>
+    <string name="time_without_jams_title">Driving time (without traffic jams)</string>
+    <string name="toast_route_not_found">Route not found</string>
+    <string name="start_marker_title">Start</string>
+    <string name="finish_marker_title">Finish</string>
+    <string name="change_addresses">Change addresses</string>
+    <string name="find_route">Find route</string>
+</resources>
